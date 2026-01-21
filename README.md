@@ -3,7 +3,6 @@
 
 I'm passionate to teach and learn Programming, CyberSecurity and Machine Learning.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data security with machine learning.
 - 🌱 I’m currently learning Python, Machine Learning, Security etc.
