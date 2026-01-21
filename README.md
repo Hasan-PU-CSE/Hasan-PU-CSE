@@ -1,4 +1,4 @@
-## Hi 👋, Hasan Khan
+## Hi 👋, I'm Hasan Khan
 
 <!--
 **Hasan-PU-CSE/Hasan-PU-CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
