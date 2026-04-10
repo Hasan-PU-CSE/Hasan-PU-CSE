@@ -15,8 +15,8 @@ Passionate about Data Science, Machine Learning, Deep Learning, Federated Learni
 📄 Publications:
 - 3 Conference Papers Accepted IEEE Conference (ML & FL based)
 
-  🛠 Skills:
-Python | TensorFlow | Scikit-learn | Pandas | NumPy | Matplotlib
+🛠 Skills:
+- Python | TensorFlow | Scikit-learn | Pandas | NumPy | Matplotlib
 
 - 👯 I’m looking to collaborate on Deep Learning Based Projects.
 - 👨‍💻  All of my projects are available at https://github.com/Hasan-PU-CSE?tab=repositories
