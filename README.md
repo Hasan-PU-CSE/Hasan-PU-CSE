@@ -23,6 +23,6 @@ Passionate about Data Science, Machine Learning, Deep Learning, Federated Learni
 - 👨‍💻  All of my projects are available at https://github.com/Hasan-PU-CSE?tab=repositories
 - 💬  Ask me about Python, Machine Learning, Deep Learning, Federated Learning and Security so on.
 - 📫 How to reach me hasankhan.pu.cse@gmail.com
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e443cbd6-9f2e-41d8-b6b1-a31a3e91436c" />
-LinkedIn: www.linkedin.com/in/hasankhanpucse
+- <img width="5" height="5" alt="image" src="https://github.com/user-attachments/assets/e443cbd6-9f2e-41d8-b6b1-a31a3e91436c" /> www.linkedin.com/in/hasankhanpucse
+
 
